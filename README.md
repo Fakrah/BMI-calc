@@ -1,6 +1,6 @@
 # BMI-calc
 Calculate your BMI
-public class BMICalculator {
+public class BMI {
     public static void main(String[] args) {
         // Example usage
         double weight = 70.0; // Weight in kilograms
